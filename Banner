@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <meta htp-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title> Website Project </title>
+    </head>
+<body>
+<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5"
+bgcolor="blue"
+<tr>
+
+    <td align="left">   
+    <table width="547" border="0" align="center" cellpadding="1" cellspacing="1">
+    <td width="96"><a href="Portfolio.html"><font face="Verdana" color="white"><h3> Home </h3></font></a></td>
+    <td width="96"><a href="About me.html"><font face="Verdana" color="white"><h3> About </h3></font></a></td>
+    <td width="96"><a href="Contact.html"><font face="Verdana" color="white"><h3> Contact </h3></font></a></td>
+    <td width="96"><a href="Resume.html"><font face="Verdana" color="white"><h3> Resume</h3></font></a></td>
+    <td width="96"><a href="Projects.html"><font face="Verdana" color="white"><h3> Projects</h3></font></a></td>
+    </table>
+
+
+</tr>
+
+
+
+
+</table>
+
+
+</body>
